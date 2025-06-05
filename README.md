@@ -19,9 +19,9 @@ A beautifully designed and responsive Weather Application built using **HTML**, 
 
 ![Weather App Demo](demo.png)
 
-## 🛠️ How to Use
 
-📦 Technologies Used
+
+## 📦 Technologies Used
 HTML5
 
 CSS3
@@ -31,7 +31,7 @@ JavaScript (Vanilla)
 OpenWeatherMap API
 
 
-💡 Future Improvements
+## 💡 Future Improvements
 🌓 Toggle between light and dark mode
 
 🌐 Multi-language support
