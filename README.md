@@ -37,7 +37,7 @@ OpenWeatherMap API
 🌐 Multi-language support
 
 🤝 Contributing
-Contributions, issues and feature requests are welcome!
+Contributions,  issues and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
 🙋‍♂️ Author
