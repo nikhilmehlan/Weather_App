@@ -9,7 +9,7 @@ A beautifully designed and responsive Weather Application built using **HTML**, 
 - 🌆 Search weather by city name
 - 🌡️ Displays temperature, humidity, wind speed, and weather condition
 - 🌤️ Weather icons based on condition
-- 🎨 Modern and clean UI
+- 🎨 Modern and clean UI 
 - ⚡ Real-time weather updates via OpenWeatherMap API
 - 📱 Fully responsive and mobile-friendly
 
@@ -22,7 +22,7 @@ A beautifully designed and responsive Weather Application built using **HTML**, 
 
 
 ## 📦 Technologies Used
-HTML5
+HTML
 
 CSS3
 
