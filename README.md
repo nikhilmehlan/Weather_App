@@ -41,5 +41,5 @@ Contributions,  issues and feature requests are welcome!
 Feel free to fork the repo and submit a pull request.
 
 🙋‍♂️ Author
-Nikhil Mehlan -nikhilmehlan1234@gmail.com
+Nikhil Mehlan  -nikhilmehlan1234@gmail.com
 
