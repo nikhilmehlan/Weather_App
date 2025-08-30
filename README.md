@@ -6,7 +6,7 @@ A beautifully designed and responsive Weather Application built using **HTML**, 
 
 ## 🔍 Features
 
-- 🌆 Search weather by city name
+- 🌆 Search weather by city name,
 - 🌡️ Displays temperature, humidity, wind speed, and weather condition
 - 🌤️ Weather icons based on condition
 - 🎨 Modern and clean UI 
