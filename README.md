@@ -26,7 +26,7 @@ HTML
 
 CSS3
 
-JavaScript (VanillaJS)
+JavaScript (VanillaJS )
 
 OpenWeatherMap API
 
